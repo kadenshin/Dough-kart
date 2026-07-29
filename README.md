@@ -1,5 +1,5 @@
 # Dough-kart
-Electric-powered single-occupant drifting go-kart
+Electric-powered single-occupant drifting go-kart\
 I started this project on 7/22/2026. I just wanted to build something fun before I go off to college. I'm adding more features to this project as I think of them.
 The design of the kart was heavily inspired from Razor's Crazy Cart XL.
 
