@@ -2,7 +2,9 @@
 Electric-powered single-occupant drifting go-kart\
 I started this project on 7/22/2026. I just wanted to build something fun before I go off to college. I'm adding more features to this project as I think of them.
 The design of the kart was heavily inspired from Razor's Crazy Cart XL.
-
+\
+<img width="656" height="480" alt="Screenshot_3-8-2026_152831_drive google com" src="https://github.com/user-attachments/assets/cdeeec2d-e856-472e-beb5-7d4e0af1a226" />
+\
 ## Design brief
 - One rider 
 - Rider height: 5’9 - 5’10, weight 140-160lb
