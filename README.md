@@ -1,5 +1,6 @@
 # Dough-kart
-<img width="538" height="479" alt="image" src="https://github.com/user-attachments/assets/dfbdbf1c-d907-4a57-b55f-c0e8980be444" />\ 
+<img width="538" height="479" alt="image" src="https://github.com/user-attachments/assets/dfbdbf1c-d907-4a57-b55f-c0e8980be444" />
+
 An easy-to-build, weldless drifting single-occupant electric go kart.\
 I started this project on 7/22/2026. I just wanted to build something fun before I go off to college. I'm adding more features to this project as I think of them.
 The design of the kart was heavily inspired from Razor's Crazy Cart XL.
